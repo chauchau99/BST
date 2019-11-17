@@ -3,9 +3,9 @@
 
 int main() 
 {
-	BST_type BST;
-	Initialize(BST);
-	ReadTree(BST);
-	PrintLNR(BST);
+	BST_type BST1;
+	Initialize(BST1);
+	ReadTree(BST1);
+	PrintLNR(BST1);
 	return 0;
 }
